@@ -9,6 +9,6 @@ This is a challenge to complete 12 challenging courses in 6 months. I will focus
 
 ## Challenges
 By the end of June 2020 I will:
-[ ] Make a preliminary list of courses
-[ ] Write more about the challenge
+- [ ] Make a preliminary list of courses
+- [ ] Write more about the challenge
 
